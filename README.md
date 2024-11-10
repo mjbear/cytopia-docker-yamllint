@@ -55,7 +55,7 @@ The image is built nightly against the latest stable version of `yamllint` and p
 [![](https://img.shields.io/docker/pulls/cytopia/yamllint.svg)](https://hub.docker.com/r/cytopia/yamllint)
 [![Docker](https://badgen.net/badge/icon/:latest?icon=docker&label=cytopia/yamllint)](https://hub.docker.com/r/cytopia/yamllint)
 
-#### Rolling releaess
+#### Rolling releases
 
 The following Docker image tags are rolling releases and are built and updated every night.
 
